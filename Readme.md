@@ -1,9 +1,9 @@
 
 # 发布版本
-## Windows版本可执行程序：<http://naibo.wang/exe/ServiceWrapper.7z>
+## Windows版本可执行程序：<https://naibo.wang/exe/ServiceWrapper.7z>
 打开压缩包内的ServiceWrapper.exe即可在Windows10系统执行，无需配置环境。
 数据存储后放在Data/文件夹内
-## 视频教程：<http://naibo.wang/exe/tutorial.mp4>
+## 视频教程：<https://naibo.wang/exe/tutorial.mp4>
 
 # 服务包装手动版程序结构
 ## Chrome插件部分
