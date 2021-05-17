@@ -584,7 +584,7 @@ if __name__ == '__main__':
     if len(sys.argv)>2:
         backEndAddress = sys.argv[2] 
     else:
-        backEndAddress = "http://183.129.170.180:8041"
+        backEndAddress = "https://servicewrapper.naibo.wang"
     if len(sys.argv)>3:
         saveName = "task_" + str(id) + "_" + sys.argv[3]  # 保存文件的名字
     else:
